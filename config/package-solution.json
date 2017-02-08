@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "testangular-client-side-solution",
+    "id": "5c50c41d-24ef-4502-a84a-6bafb8c41f33",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/testangular.sppkg"
+  }
+}
